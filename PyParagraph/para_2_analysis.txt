@@ -1,0 +1,6 @@
+Analysis Results for file ./raw_data/paragraph_2.txt
+-------------------------------------------
+Approximate Word Count: 294
+Approximate Sentence Count: 10
+Average Letter Count: 4.878
+Average Sentence Length: 29.400
