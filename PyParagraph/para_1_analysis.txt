@@ -1,4 +1,4 @@
-Analysis Results for file ./raw_data/paragraph_1.txt
+Analysis Results for file raw_data/paragraph_1.txt
 -------------------------------------------
 Approximate Word Count: 133
 Approximate Sentence Count: 5
